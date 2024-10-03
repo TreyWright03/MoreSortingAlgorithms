@@ -15,8 +15,8 @@ To get started with this project, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SortingAlgorithms.git
-   cd SortingAlgorithms
+   git clone https://github.com/yourusername/MoreSortingAlgorithms.git
+   cd MoreSortingAlgorithms
    ```
 
 2. **Compile the Source Files**:
