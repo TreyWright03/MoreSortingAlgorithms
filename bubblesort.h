@@ -1,5 +1,5 @@
-#ifndef BUBBLESORT_A_H
-#define BUBBLESORT_A_H
+#ifndef BUBBLESORT_H
+#define BUBBLESORT_H
 #include <vector>
 using namespace std;
 
