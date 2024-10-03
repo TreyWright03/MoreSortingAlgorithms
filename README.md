@@ -1,6 +1,6 @@
 # Sorting Algorithms
 Preview:
-![Sorting](images/Sorting_Algs_PT2.png)
+![Sorting](image/SortingAlgsPT2.png)
 
 ## Sorting Algorithms Implamented
 
